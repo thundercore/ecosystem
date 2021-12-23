@@ -1,0 +1,18 @@
+{
+  "slug": "Peerkat",
+  "name": "Peerkat",
+  "description": "Watch the latest videos about crypto & gaming and tip the content creator with Thunder Tokens",
+  "appUrl": "https://tthub.peerkat.live/",
+  "contractAddresses": [
+    "0x6915Ae0D5a9c08675Ce5c83b54228f3D3F1A6101"
+  ],
+  "categories": [
+    "Others"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}

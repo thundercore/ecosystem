@@ -1,0 +1,14 @@
+{
+  "slug": "MyAppID",
+  "name": "My App Name",
+  "description": "My App Description",
+  "appUrl": "https://myapp.com",
+  "contractAddresses": ["0x...."],
+  "categories": ["game"],
+  "email": "(optional) myemail@mail.com",
+  "social": {
+    "twitter": "(optional) https://twitter.com/ID",
+    "telegram": "(optional) https://t.me/ID",
+    "discord": "(optional) https://discord.gg/ID"
+  }
+}

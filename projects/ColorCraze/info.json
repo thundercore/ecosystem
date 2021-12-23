@@ -1,0 +1,18 @@
+{
+  "slug": "ColorCraze",
+  "name": "Color Craze",
+  "description": "How fast can you match the color to its name? Take up the challenge and see your capability.",
+  "appUrl": "https://esports-cn.win4.fun/g/color-craze",
+  "contractAddresses": [
+    "0x4cd149e702efbd419007c8f0185a5fbdafd31117"
+  ],
+  "categories": [
+    "Game"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}

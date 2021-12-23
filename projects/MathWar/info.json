@@ -1,0 +1,18 @@
+{
+  "slug": "MathWar",
+  "name": "Math War",
+  "description": "Challenge your friends to a math duel!",
+  "appUrl": "https://esports-cn.win4.fun/g/math-race",
+  "contractAddresses": [
+    "0x691cbf96a19F3D56F4d512717Cb85DA56cBAf3EB"
+  ],
+  "categories": [
+    "Game"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "TT-Keno",
+  "name": "TT-Keno",
+  "description": "40 ball Keno with highest multipliers on the blockchain",
+  "appUrl": "https://scgames.io/keno",
+  "contractAddresses": [
+    "0x05aA637D1364beF25d1C89735ded26dae2FCA80D"
+  ],
+  "categories": [
+    "Gambling"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}

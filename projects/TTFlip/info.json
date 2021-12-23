@@ -1,0 +1,18 @@
+{
+  "slug": "TTFlip",
+  "name": "TT Flip",
+  "description": "Fully decentralized classic coin flip game.",
+  "appUrl": "https://ttflip.com",
+  "contractAddresses": [
+    "0x614AB48AAec07029d83A769539a40A3a0eDd25c1"
+  ],
+  "categories": [
+    "Gambling"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}

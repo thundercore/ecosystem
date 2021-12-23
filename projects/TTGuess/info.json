@@ -1,0 +1,18 @@
+{
+  "slug": "TTGuess",
+  "name": "TTGuess",
+  "description": "The goal of the game is to let the winner make a BIG fortune and the loser win the BIG lucky draw prize.",
+  "appUrl": "https://ttguess-b5023.web.app/",
+  "contractAddresses": [
+    "0x14b9ca836397E5D8B20A5C3191aa4813B71f7755"
+  ],
+  "categories": [
+    "Gambling"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}

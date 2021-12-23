@@ -1,0 +1,18 @@
+{
+  "slug": "StakingPool",
+  "name": "Staking Pool",
+  "description": "Stake your tokens to earn up to 30% rewards!",
+  "appUrl": "https://staking.thundercore.com",
+  "contractAddresses": [
+    "0xAD23b02673214973E354D41e19999D9E01F3Be58"
+  ],
+  "categories": [
+    "DeFi"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}

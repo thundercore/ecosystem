@@ -1,0 +1,18 @@
+{
+  "slug": "BrainWarp",
+  "name": "Brain Warp",
+  "description": "Even or odd? Consonant or vowel? How fast can you respond?",
+  "appUrl": "https://esports-cn.win4.fun/g/brain-warp",
+  "contractAddresses": [
+    "0x3f64Ef43c1F22604DF88A71852BD0EC12DC752C2"
+  ],
+  "categories": [
+    "Game"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}

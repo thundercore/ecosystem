@@ -1,0 +1,18 @@
+{
+  "slug": "WordSearchBlitz",
+  "name": "Word Search Blitz",
+  "description": "Do you like scrabble? Try our whole new spelling puzzle.",
+  "appUrl": "https://esports-cn.win4.fun/g/word-race",
+  "contractAddresses": [
+    "0x28b328Bd7013A097Af2283C5946F2B0677982402"
+  ],
+  "categories": [
+    "Game"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}

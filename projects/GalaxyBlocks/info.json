@@ -1,0 +1,18 @@
+{
+  "slug": "GalaxyBlocks",
+  "name": "Galaxy Blocks",
+  "description": "Long time ago, in the galaxy far far away, there are blocks that wait for you to break.",
+  "appUrl": "https://esports-cn.win4.fun/g/space-tetris",
+  "contractAddresses": [
+    "0x4cd149e702efbd419007c8f0185a5fbdafd31117"
+  ],
+  "categories": [
+    "Game"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}
