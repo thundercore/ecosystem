@@ -1,7 +1,7 @@
 {
   "slug": "RamProtocol",
   "name": "Ram Protocol",
-  "description": "Ram is a non-custodial liquidity protocol for earning interest on deposits and borrowing assets on the ThunderCore chain.",
+  "description": "Make Money with Money. Lending protocol with 10+% APR.",
   "appUrl": "https://rammer.finance/",
   "contractAddresses": [
     "0x0d4fe8832857Bb557d8CFCf3737cbFc8aE784106",
@@ -23,8 +23,9 @@
   "categories": ["DeFi"],
   "email": "",
   "social": {
-    "twitter": "",
-    "telegram": "",
+    "twitter": "https://twitter.com/flashboys_fi/",
+    "telegram": "https://t.me/rammerfinance",
     "discord": ""
   }
 }
+
