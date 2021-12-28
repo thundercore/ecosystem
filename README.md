@@ -1,6 +1,6 @@
 # ThunderCore Ecosystem
 
-ThunderCore ⚡️ DApp submission.
+ThunderCore ⚡️ DApp submission
 
 ---
 
@@ -19,7 +19,7 @@ A project is composed of two files: an info.json file, and an icon image file.
 
 - slug: An unique identifier for your project, which should be in camel case and contain no special characters nor spaces.
 
-#### Categories:
+#### Categories
 
 - Game
 - DeFi
@@ -29,6 +29,11 @@ A project is composed of two files: an info.json file, and an icon image file.
 - High-Risk
 - Tools
 
-## Questions
+## Questions❓
 
 If you have any questions, then please join our [Discord](https://discord.com/invite/5EbxXfw) and let us know via the Developers General channel.
+
+## NOTES📒
+
+If you want to list your DApp on ThunderCore Hub, please confirm that user can connect your DApp with their wallet. And confirm that there is no obvious UI issue as well.
+Please fill in the contract used by your DApp, which is related to whether to join the trusted contract list.
