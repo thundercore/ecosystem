@@ -1,0 +1,18 @@
+{
+  "slug": "KillRichGame",
+  "name": "Kill Rich Game",
+  "description": "Kill Rich Game is a chance game. The goal of the game is to let the winner make a BIG FORTUNE. You can win these odds: 10x or 100x or 1.000x or 10.000x",
+  "appUrl": "http://richethereum.com/thundercore/index.php",
+  "contractAddresses": [
+    "0x3D5AFdBc0d697C41B1A8Fd02A264A38b8031f7b4"
+  ],
+  "categories": [
+    "Gambling"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}
