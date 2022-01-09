@@ -1,0 +1,23 @@
+{
+    "slug": "Cooky",
+    "name": "Cooky Finance",
+    "description": "Automatic Market Making (AMM) and Bonding on ThunderCore Network.  ",
+    "appUrl": "https://cookyfinance.org/",
+    "contractAddresses": [
+        "0xC9F7bbb1c6AaeF37e4d980dCF54a22Fb4Bc67513",
+        "0x6F509864463B57c1a5aB6bAD7817fe57Be4615dC",
+        "0x89127768CB1265c66271315573282dA623D5F7BE",
+        "0x7833fbC74DB8b68014a9E990393180886F380B3e",
+        "0x95C6149236AEf8a7ba3FaBdc351c3718b6bfd9eD",
+        "0x752B535A3b4e8207093e65d213f0909eC247e0Eb"
+    ],
+    "categories": [
+        "Defi"
+    ],
+    "email": "admin@cookyfinance.org",
+    "social": {
+        "twitter": " ",
+        "telegram": "https://t.me/cookyfinance",
+        "discord": " "
+    }
+}
