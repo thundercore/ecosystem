@@ -1,14 +1,14 @@
 {
-  "slug": "001",
+  "slug": "",
   "name": "Thunder Manager",
-  "description": "Thunder Manager is what it is.",
+  "description": "Thunder Manager here to help.",
   "appUrl": "https://thundermanager.com",
   "contractAddresses": [],
-  "categories": ["game"],
-  "email": "(optional) myemail@mail.com",
+  "categories": ["DeFi"],
+  "email": "",
   "social": {
-    "twitter": "(optional) https://twitter.com/ID",
-    "telegram": "(optional) https://t.me/ID",
-    "discord": "(optional) https://discord.gg/ID"
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
   }
 }
