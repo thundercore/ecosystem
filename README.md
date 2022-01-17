@@ -8,6 +8,8 @@ ThunderCore ⚡️ DApp submission
 
 A project is composed of two files: an info.json file, and an icon image file.
 
+Read [THIS](https://docs.developers.thundercore.com/develop-on-thundercore-hub/dapp-submission) detailed guide before you proceed with your submission.
+
 ### Requirements
 
 - DApp contract must be verified on Viewblock
