@@ -1,7 +1,7 @@
 {
   "slug": "LaserSwap",
   "name": "LaserSwap",
-  "description": "Cheaper and faster than Uniswap? Discover LaserSwap, the leading DEX on ThunderCore (TT) with the best farms in DeFi and a lottery for LASER.",
+  "description": "LaserSwap, the first DEX V2 on ThunderCore (TT) delivering great trading experience and earning opportunities.",
   "appUrl": "https://laserswap.finance",
   "contractAddresses": ["0xfa9fE703A882d883c635a949da91405Ce011e526"],
   "categories": ["DeFi"],
