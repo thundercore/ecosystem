@@ -1,0 +1,14 @@
+{
+"slug": "TT_FLASH_FLIP_COIN",
+"name": "TT FLASH FLIP COIN",
+"description": "Flip and Win TT in this amazing Flip to win game. Fully decentralized with instant transaction",
+"appUrl": "http://flip.ttflash.online",
+"contractAddresses": ["0xd4514Cf88ff09141296FB97dD7Bc5eC93267D7AD"],
+"categories": ["gambling"],
+"email": "(optional) thundertokenflash@gmail.com",
+"social": {
+"twitter": "",
+"telegram": "",
+"discord": ""
+}
+}
