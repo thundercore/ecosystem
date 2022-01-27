@@ -1,0 +1,14 @@
+{
+  "slug": "LaserSwap",
+  "name": "LaserSwap",
+  "description": "LaserSwap, the first DEX V2 on ThunderCore (TT) delivering great trading experience and earning opportunities.",
+  "appUrl": "https://laserswap.finance",
+  "contractAddresses": ["0xfa9fE703A882d883c635a949da91405Ce011e526"],
+  "categories": ["DeFi"],
+  "email": "laserswap.xyz@gmail.com",
+  "social": {
+    "twitter": "https://twitter.com/laser_swap",
+    "telegram": "http://t.me/Laser_Swap",
+    "discord": ""
+  }
+}
