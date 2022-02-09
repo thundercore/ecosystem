@@ -3,7 +3,7 @@
   "name": "BurbujaFinance",
   "description": "BurbujaFinance, the first UnOfficial DEX on ThunderCore.",
   "appUrl": "http://burbujafinance.tk",
-  "contractAddresses": ["0xce393b11872ee5020828e443f6ec9de58cd8b6c5"],
+  "contractAddresses": ["0xfa9fe703a882d883c635a949da91405ce011e526"],
   "categories": ["DeFi"],
   "email": "burbujabank@gmail.com",
   "social": {
