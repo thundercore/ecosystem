@@ -1,0 +1,14 @@
+{
+  "slug": "CEXISWAP",
+  "name": "CEXISWAP",
+  "description": "Liberate CEX Prices on DEX to every chain.",
+  "appUrl": "https://app.cexiswap.io",
+  "contractAddresses": ["0x777777770b518e8181106ee8b1ad625ac0e7393c"],
+  "categories": ["DeFi"],
+  "email": "dev@cexiswap.io",
+  "social": {
+    "twitter": "https://twitter.com/cexiswap",
+    "telegram": "https://t.me/cexiswap_official",
+    "discord": ""
+  }
+}
