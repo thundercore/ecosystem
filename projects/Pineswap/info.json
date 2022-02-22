@@ -1,0 +1,21 @@
+{
+  "slug": "Pineswap",
+  "name": "Pineswap",
+  "description": "Pineswap is a fully decentralized protocol for automated liquidity provision on Thundercore.",
+  "appUrl": "https://pineswap.space/",
+  "contractAddresses": [
+    "0xA20cEd215C66959E2F96e788C3D44dA58440D100",
+    "0xc5a297993ea0748E980a7F52Fa1916082F38C7d4",
+    "0x27087E75aBD8713430369a813A6dd53BFfD4E9D5",
+    "0xBDB6424982Fd02348D61dE711ae9Af1D5A7FD5D0",
+    "0xFeB6A755D49E4FCF91dE6D2181da58F94F6dca0f",
+    "0x64cA581D9828B4bd5d68d027EE67aB2896B9008d"
+  ],
+  "categories": ["DeFi"],
+  "email": "defi@pineswap.space",
+  "social": {
+    "twitter": "https://twitter.com/pineswap",
+    "telegram": "https://t.me/pineswap",
+    "discord": ""
+  }
+}
