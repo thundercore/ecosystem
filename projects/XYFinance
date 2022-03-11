@@ -1,0 +1,24 @@
+{
+  "slug": " XYFinance ",
+  "name": " XY Finance ",
+  "description": "One stop cross-chain aggregator for DeFi & Metaverse ",
+  "appUrl": "https://app.xy.finance",
+  "contractAddresses": [
+    "0x50a64d05bB8618D8d96A83CbBb12b3044ec3489A",
+    "0x0241fb446d6793866245b936F2C3418F818bDcD3",
+    "0xD195070107d853e55Dad9A2e6e7E970c400E67b8",
+    "0x1B0789910027c3CC58af2391de7228d973c5C46E",
+    "0x74A0EEA77e342323aA463098e959612d3Fe6E686",
+    "0x73Ce60416035B8D7019f6399778c14ccf5C9c7A1",
+    "0x2641911948e0780e615A9465188D975Fa4A72f2c",
+    "0x44a54941E572C526a599B0ebe27A14A5BF159333",
+    "0x778C974568e376146dbC64fF12aD55B2d1c4133f"
+    ],
+  "categories": ["DeFi"],
+  "email": "contact@xy.finance",
+  "social": {
+    "twitter": "https://twitter.com/xyfinance",
+    "telegram": "https://t.me/xyfinance",
+    "discord": "https://discord.gg/xyfinance"
+  }
+}
