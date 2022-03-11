@@ -1,0 +1,14 @@
+{
+  "slug": "test",
+  "name": "test",
+  "description": "test",
+  "appUrl": "test",
+  "contractAddresses": ["test"],
+  "categories": ["test"],
+  "email": "test",
+  "social": {
+    "twitter": "test",
+    "telegram": "test",
+    "discord": "test"
+  }
+}
