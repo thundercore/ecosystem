@@ -1,0 +1,18 @@
+{
+  "slug": "poker",
+  "name": "TT-Poker",
+  "description": "Enjoy classic Video Poker",
+  "appUrl": "https://scgames.io/videopoker",
+  "contractAddresses": [
+    "0x7ada6c366800ADC06bB0821cD3D08b8d42983e64"
+  ],
+  "categories": [
+    "Gambling"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}
