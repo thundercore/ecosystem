@@ -1,0 +1,20 @@
+{
+    "slug": "Planet Master",
+    "name": "Planet Master",
+    "description": "Join ThunderCore to play with millions of people! Winning Planent Master Token to be the first one to unbox the treasure trove!",
+    "appUrl": "https://master.diceplanet.xyz/",
+    "contractAddresses": [
+        "0xeA205F936E93D71B0C4D858Ae1ad8a3138EC5B03",
+        "0xa8241Fd3A4559D88f137cDcf460B37B35513C908",
+        "0xfF99e917cF1E081A4e52836bbE8DF610cbAb9DD7"
+    ],
+    "categories": [
+      "Gambling"
+    ],
+    "email": "",
+    "social": {
+      "twitter": "",
+      "telegram": "",
+      "discord": ""
+    }
+  }
