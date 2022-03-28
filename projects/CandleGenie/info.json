@@ -1,0 +1,18 @@
+{
+  "slug": "CandleGenie",
+  "name": "CandleGenie",
+  "description": "Make great profits with playing fun blockchain games. 💵💰🚀🚀 ⭐️PREDICTIONS ⭐️DICE ⭐️MEME RAGE Play it Now !",
+  "appUrl": "https://candlegenie.io",
+  "contractAddresses": ["0xDEa84AEad84631Fe9A865c56D32a66989809e4D7", 
+				 "0x79a0e09a41c61E3E41aF3ad9e8c3Fa4F787CB395", 
+				 "0xA1d3aDC71D1371fa5aA91e2342C5B8a2F420c2C7",
+				 "0xf6F0a7441962cDFC2FDBeD73771Ba7D5232179e4",
+				 "0xab628103d1a8C76054f2b03ac81195265AB382B14"],
+  "categories": ["Gambling"],
+  "email": "marketing@candlegenie.io",
+  "social": {
+    "twitter": "https://twitter.com/CandleGenieIO",
+    "telegram": "https://t.me/candlegenie",
+    "discord": ""
+  }
+}
