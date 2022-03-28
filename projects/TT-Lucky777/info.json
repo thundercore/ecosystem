@@ -1,0 +1,18 @@
+{
+  "slug": "lucky777",
+  "name": "TT-Lucky777",
+  "description": "Nostalgic Lucky777 fruit slot machine game but with more payout combinations",
+  "appUrl": "https://scgames.io/lucky777",
+  "contractAddresses": [
+    "0x06bDA458B16f7F3D90bF5A9D785412eE5c7c8585"
+  ],
+  "categories": [
+    "Gambling"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}
