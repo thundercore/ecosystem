@@ -1,0 +1,14 @@
+{
+  "slug": "TTCasino.io",
+  "name": "TTCasino.io",
+  "description": "Top 1 Web 3.0 casino on ThunderCore. 3000+ Games: slots, live casino, sports, poker",
+  "appUrl": "https://ttcasino.io/",
+  "contractAddresses": ["0x9EAd4027e4d6E91cA1Cea053d6ccf638C17B86C9"],
+  "categories": ["Gambling"],
+  "email": "dao@owldao.io",
+  "social": {
+    "twitter": "https://twitter.com/OWLDAOio",
+    "telegram": "https://t.me/owlDAO",
+    "discord": "https://discord.com/invite/8MUcukEKnC"
+  }
+}
