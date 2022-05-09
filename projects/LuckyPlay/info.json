@@ -2,7 +2,7 @@
   "slug"             : "LuckyPlay",
   "name"             : "Lucky Play",
   "description"      : "A decentralized game platform, completely safe and fair, no cheating, no deposits, and instant payouts",
-  "appUrl"           : "https://www.luckyplay.io/games/coinflip?token=0&chainId=1",
+  "appUrl"           : "https://www.luckyplay.io/home?tokenindex=0&chainindex=1",
   "contractAddresses": ["0x5C617a565B8Be9b980E21d7b429D161704E3A4C0"],
   "categories"       : ["Gambling"],
   "email"            : "contact@mail.com",
