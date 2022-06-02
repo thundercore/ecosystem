@@ -1,0 +1,14 @@
+{
+  "slug"             : "LuckyPlay",
+  "name"             : "Lucky Play",
+  "description"      : "A decentralized game platform, completely safe and fair, no cheating, no deposits, and instant payouts",
+  "appUrl"           : "https://www.luckyplay.io/home?tokenindex=0&chainindex=1",
+  "contractAddresses": ["0x976c080FFa62Aa6c1F38F284b754E6c0Ece64227"],
+  "categories"       : ["Gambling"],
+  "email"            : "contact@mail.com",
+  "social"           : {
+    "twitter" : "https://twitter.com/luckyplaynow",
+    "telegram": "https://t.me/lpannounce",
+    "discord" : "https://discord.gg/luckyplay"
+  }
+}
