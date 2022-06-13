@@ -1,0 +1,24 @@
+{
+  "slug": "NFTmall",
+  "name": "NFTmall - Your NFT Marketplace & Launchpad",
+  "description": "Community-driven, decentralized, one-stop NFT trade center on ThunderCore. Earn passive income, collect, trade, and materialize rare digital collectibles in real world!",
+  "appUrl": "https://NFTmall.io",
+  "contractAddresses": [
+    "0xB01E8837b11b1dF35D40E68E854de8C84442da92",
+    "0x4f02A80F29E69b3725C4033e432d2a451dF39a73"
+  ],
+  "categories": [
+    "NFT",
+    "Marketplace",
+    "Launchpad",
+    "GameFi",
+    "Metaverse",
+    "Social"
+  ],
+  "email": "info@NFTmall.io",
+  "social": {
+    "twitter": "https://twitter.com/NFTmall",
+    "telegram": "https://t.me/NFTmallio",
+    "discord": "https://discord.com/invite/SG4GGYMXvJ"
+  }
+}
