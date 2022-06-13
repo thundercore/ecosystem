@@ -1,0 +1,18 @@
+{
+  "slug": "FunBird",
+  "name": "Fun Bird",
+  "description": "Fun Bird is fun game Dapp built on top of the ThunderCore blockchain. Fun Bird utilizes the fast transactions and near-zero fees of the ThunderCore blockchain to support a high volume of bets in real-time.",
+  "appUrl": "https://tfunfun.xyz/flop",
+  "contractAddresses": [
+    "0xE5B58A448b68E48A4e29678382F72E8456DdF970"
+  ],
+  "categories": [
+    "Game"
+  ],
+  "email": "tfunfun.22@gmail.com",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}
