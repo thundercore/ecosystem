@@ -37,5 +37,5 @@ If you have any questions, then please join our [Discord](https://discord.com/in
 
 ## NOTES📒
 
-If you want to list your DApp on ThunderCore Hub, please confirm that user can connect your DApp with their wallet. And confirm that there is no obvious UI issue as well.
+If you want to list your DApp on TT Wallet, please confirm that user can connect your DApp with their wallet. And confirm that there is no obvious UI issue as well.
 Please fill in the contract used by your DApp, which is related to whether to join the trusted contract list.
