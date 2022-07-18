@@ -1,0 +1,18 @@
+{
+    "slug": "Snake",
+    "name": "Snake",
+    "description": "Classic arcade game Snake",
+    "appUrl": "https://snake.seasonfunplanet.com/",
+    "contractAddresses": [
+        "0x0F0DED94C1d3b124064b4D17FfA0454341EA1b5D"
+    ],
+    "categories": [
+        "game"
+    ],
+    "email": "seasonfunplanet@mail.com",
+    "social": {
+        "twitter": "",
+        "telegram": "",
+        "discord": ""
+    }
+}
