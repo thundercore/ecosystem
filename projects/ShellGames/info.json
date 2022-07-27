@@ -1,0 +1,24 @@
+{
+  "slug": "ShellGames",
+  "name": "Shell Games",
+  "description": "Fair and open gambling platform on the blockchain. Extremely low 1% house edge. Based on the decentralized blockchain network that connects people all over the world.",
+  "appUrl": "https://shell.org",
+  "contractAddresses": [
+    "0x30cC263E38946aC99B53586F10341e4FE137CF12",
+    "0xd9777C70820eC8Deb49b71bb374fF49B9A455A4b",
+    "0xfc5C8cF76503174639aAe3dDDd579DcC5b2B26E2",
+    "0x3e9E07701D8e7F305D0B99f33f3302a0106ed6c7",
+    "0x59509BCcb22617F65A35cb0dd98c16bcEd676172"
+  ],
+  "categories": [
+    "Game",
+    "GameFi",
+    "Gambling"
+  ],
+  "email": "team@shell.org",
+  "social": {
+    "twitter": "https://twitter.com/orgShell",
+    "telegram": "https://t.me/ShellLab",
+    "discord": ""
+  }
+}
