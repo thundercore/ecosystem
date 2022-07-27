@@ -1,0 +1,18 @@
+{
+    "slug": "ThreeStarTT",
+    "name": "ThreeStarTT",
+    "description": "It's a simple game where players can win big by hitting three numbers.",
+    "appUrl": "https://three-star.herokuapp.com/",
+    "contractAddresses": [
+      "0xe8fbF366510907D0B616b387CBc513f7Fc31279B"
+    ],
+    "categories": [
+      "Gambling"
+    ],
+    "email": "",
+    "social": {
+      "twitter": "",
+      "telegram": "",
+      "discord": ""
+    }
+  }
