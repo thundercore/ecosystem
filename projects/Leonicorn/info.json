@@ -1,0 +1,18 @@
+{
+  "slug": "Leonicorn",
+  "name": "LEONICORN | Swap - NFT - GameFi",
+  "description": "Leonicorn is an advanced AMM with features like NFT Marketplace, Lottery, IDO and many other advanced features. We provide user-friendly, efficient and secure crypto solutions by utilizing blockchain technology.",
+  "appUrl": "https://dex.leonicornswap.com/",
+  "contractAddresses": [
+    "0x80ae459d058436ecb4e043ac48cfd209b578cbf0"
+  ],
+  "categories": [
+    "DeFi"
+  ],
+  "email": "info@leonicornswap.com",
+  "social": {
+    "twitter": "https://twitter.com/swapleonicorn",
+    "telegram": "https://t.me/leonicornswap",
+    "discord": "https://discord.gg/bG9RqyGKwE"
+  }
+}
