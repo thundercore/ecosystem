@@ -1,0 +1,20 @@
+{
+  "slug": "TT3Star",
+  "name": "TT3Star",
+  "description": "Great rewards.Players can win big by just hitting three numbers.",
+  "appUrl": "https://www.threestar.fun/",
+  "contractAddresses": [
+    "0xb6d957BcD29EEF5c75BA4AEf936CBC3eC5D88ADb",
+    "0xF0F35015Fd4879Ef73Dfc1abbB29226AfBF53186",
+    "0xa931A981edfCd9cA80A0Be1653CE3b1C4ceb757e"
+  ],
+  "categories": [
+    "Gambling"
+  ],
+  "email": "sasakevin7@outlook.com",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}
