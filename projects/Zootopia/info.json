@@ -1,17 +1,17 @@
 {
   "slug": "Zootopia",
   "name": "Zootopia",
-  "description": "Zootopia is very easy, just two steps. First, buy an animal. Second, come back regularly to collect your returns everyday. -- If the animal’s Life is 5 days and produces twice a day. That you can claim returns 10 times in total. Daily (GMT0) 0:00 - 11:59 for the first harvest, 12:00 - 23:59 for the second harvest.",
+  "description": "Keep a cute animal in Zootopia, and the animal will produce rewards for you every day and give you super high APR.\nSimple and easy to use, make you happy and make money at the same time.\n",
   "appUrl": "https://www.zootopia.fun/",
   "contractAddresses": [
-    "0xfa31eE3A2C35AA0A35079c041CC489E29b2A73D9",
+    "0xfa31eE3A2C35AA0A35079c041CC489E29b2A73D9"
   ],
   "categories": [
     "Defi"
   ],
   "email": "htag3782@gmail.com",
   "social": {
-    "twitter": "",
+    "twitter": "https://twitter.com/Zootopia_defi",
     "telegram": "",
     "discord": ""
   }
