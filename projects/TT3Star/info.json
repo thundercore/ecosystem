@@ -1,7 +1,7 @@
 {
   "slug": "TT3Star",
   "name": "TT3Star",
-  "description": "Great rewards.Players can win big by just hitting three numbers.",
+  "description": "Great rewards.Players can win big by just hitting three numbers.Winners can get highest 100X, losers can get 3Star tokens.",
   "appUrl": "https://www.threestar.fun/",
   "contractAddresses": [
     "0xb6d957BcD29EEF5c75BA4AEf936CBC3eC5D88ADb",
@@ -13,8 +13,8 @@
   ],
   "email": "sasakevin7@outlook.com",
   "social": {
-    "twitter": "",
-    "telegram": "",
+    "twitter": "https://twitter.com/3star_tt",
+    "telegram": "https://t.me/+vxK3xKpQSoYyMjE5",
     "discord": ""
   }
 }
