@@ -1,0 +1,19 @@
+{
+    "slug": "TTPrize",
+    "name": "TT Prize",
+    "description": "Choose your lucky numbers and win a BIG Prize.\nThe game gives great Rewards for both winners and losers.",
+    "appUrl": "https://www.prize-dapp.com",
+    "contractAddresses": [
+      "0x06dbD895b55Dc65f0c9CcDF64eB7C552a6755449"
+    ],
+    "categories": [
+      "Gambling"
+    ],
+    "email": "dapp.prize@gmail.com",
+    "social": {
+      "twitter": "",
+      "telegram": "",
+      "discord": ""
+    }
+  }
+ 
