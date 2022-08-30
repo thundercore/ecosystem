@@ -1,0 +1,13 @@
+{
+    "slug": "TTwof",
+    "name": "TTwof",
+    "description": "TT wof (Thundercore Wheel of Fortune). Fair gambling platform available on the ThunderCore blockchain. Roll the wheel of fortune and multiply your stake !",
+    "appUrl": "https://ttwof.ddns.net/",
+    "contractAddresses": ["0xE5EaD5b407a13e4f3aCD5Db176c91D52aBA30B76"],
+    "categories": ["Game", "GameFi", "Gambling"],
+    "email": "ttwof_contact@mailfence.com",
+    "social": {
+      "twitter": "https://twitter.com/TT_wof",
+      "telegram": "https://t.me/tt_wof",
+    }
+}
