@@ -1,34 +1,18 @@
 {
-
   "slug": "make a guess",
-
   "name": "MAKE A GUESS",
-
-  "description": "A decentralized Player vs Player (PvP) guessing game. Create game or make a guess to compete with friends for their thunder token",
-
+  "description": "A decentralized Player vs Player (PvP) guessing game. Create game or make a guess to compete with friends for their thunder token.",
   "appUrl": "https://guess.chatthunder.site/",
-
   "contractAddresses": ["0x01e19665ED79e392d959d969160657413228aA4b"],
-
   "categories": [
-
   "Game", 
-
    "Gambling"
-
    ],
-
   "email": "Contact@chatthunder.site ",
-
   "social": {
-
     "twitter": "http://twitter.com/chat_thunder_",
-
     "telegram": "https://t.me/chat_thunder_discussion", 
-
     "discord": "https://discord.gg/k8UZ2U2g8f"
-
   }
-
 }
 
