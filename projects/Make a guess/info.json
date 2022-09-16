@@ -3,7 +3,7 @@
   "name": "MAKE A GUESS",
   "description": "A decentralized Player vs Player (PvP) guessing game. Create game or make a guess to compete with friends for their thunder token.",
   "appUrl": "https://guess.chatthunder.site/",
-  "contractAddresses": ["0x01e19665ED79e392d959d969160657413228aA4b"],
+  "contractAddresses": ["0xdA4dd19adB77c4dD8E4b29984d73e94fB56798D9"],
   "categories": [
   "Game", 
    "Gambling"
