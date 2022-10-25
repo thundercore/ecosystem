@@ -25,7 +25,6 @@ Read [THIS](https://docs.developers.thundercore.com/develop-on-thundercore-hub/d
 
 - Game
 - DeFi
-- Gambling
 - NFT
 - Others
 - High-Risk
