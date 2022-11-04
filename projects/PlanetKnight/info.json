@@ -1,0 +1,20 @@
+{
+    "slug": "Planet Knight",
+    "name": "Planet Knight",
+    "description": "Welcome to Planet Arena. You can bet on Planet Knight or Thunder Knight. Furthermore, you can join the round table as the arena boss. Come to play and earn!",
+    "appUrl": "https://knight.diceplanet.xyz/",
+    "contractAddresses": [
+        "0x1616D9a570Dad8c0ed81456d97cba316A8B28D9d",
+        "0x08A027F1c8098D19A16Ddac1D9eC5b3AD528C3Ae",
+        "0xfF99e917cF1E081A4e52836bbE8DF610cbAb9DD7"
+    ],
+    "categories": [
+      "Game", "NFT"
+    ],
+    "email": "diceplanet@gmail.com",
+    "social": {
+      "twitter": "",
+      "telegram": "https://t.me/diceplanet",
+      "discord": ""
+    }
+  }
