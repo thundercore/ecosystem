@@ -1,0 +1,29 @@
+{
+  "slug": "Warena",
+  "name": "Warena",
+  "description": "Warena is a cross-chain DeFi game that allows you to play and live your dream life. Players have a variety of games and activities to play and experience with tokenized resources. Warena empowers players, revolutionizing the way we game.",
+  "appUrl": "https://emporia.warena.io/",
+  "contractAddresses": [
+    "0x1D0DD4A414A958766b5317C92Cf4630715F09427",
+    "0x14DD026cc4b26a8205F07DD40db4e171e3Eb1580",
+    "0x57fcD665916a03078724060ba60cDa696Ef718Ae",
+    "0x77810A5B865459d4e7e6654A6F44C5fD3baa9E95",
+    "0x28008c873AbbAafB076e182bC535125ac156cB5b",
+    "0x2Da2997310D865F8721B8227644B4Eb65433406B",
+    "0xf5A38664FA203C06282ADF02c535B6015C12Afdd",
+    "0x42f0BfeFdBed925Fe68beB9C4505e28c5d3dddB3",
+    "0x4646B353753457BE09f5a8f3588e48D63dfA8447",
+    "0x4d707e69fa16354707aC4C398d414161a3dd6CaB"
+  ],
+  "categories": [
+    "Games",
+    "DeFi",
+    "NFT"
+  ],
+  "email": "social@warena.io",
+  "social": {
+    "twitter": "https://twitter.com/WarenaOfficial",
+    "telegram": "https://t.me/warenaOfficial",
+    "discord": "https://discord.gg/dGTD9WRDja"
+  }
+}
