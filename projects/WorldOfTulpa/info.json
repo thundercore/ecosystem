@@ -1,0 +1,13 @@
+{
+  "slug"             : "WorldOfTulpa",
+  "name"             : "World Of Tulpa",
+  "description"      : "TRPG Dating Meme Game",
+  "appUrl"           : "https://worldoftulpa.link/index",
+  "contractAddresses": ["0xb8049B3Bd885714C6CC795820e62CE445Bd1ac17"],
+  "categories"       : ["game"],
+  "email"            : "worldoftulpa@gmail.com",
+  "social"           : {
+    "twitter" : "https://twitter.com/worldoftulpa",
+    "instagram": "https://instagram.com/worldoftulpa"
+  }
+}
