@@ -1,0 +1,23 @@
+{
+  "slug": "Forlend",
+  "name": "Forlend",
+  "description": "Forlend: A better way to borrow assets, earn interest, and build lending apps. The decentralized borrowing protocol for a self-sovereign future.",
+  "appUrl": "https://forlend.io",
+  "contractAddresses": [
+    "0x641E1b2fEDC75E24b46aA97907cb7F747941cCB2",
+    "0xB4f4d9FD4B9A00cA70433BBE9E4f895dA3584AF9",
+    "0x6143F40951dA497d80A07e08720b734aa3AAd940",
+    "0x6a8E56bc514A5694a87Ebcf678E0df1fc554ABB1",
+    "0xccB810C22B20373d3930E2456e0f630Aa4F3d58a",
+    "0xEAA9c2c84A0d11cDB1889e6d163D5B2808225244"
+  ],
+  "categories": [
+    "DeFi"
+  ],
+  "email": "hello@forlend.io",
+  "social": {
+    "twitter": "https://twitter.com/forlend_finance",
+    "telegram": "https://t.me/forlend_prifi",
+    "discord": ""
+  }
+}
