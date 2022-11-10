@@ -4,8 +4,9 @@
   "description": "Pikasso is a firebase for NFT apps and brings your NFT applications to market in no time on a low-cost fees ecosystem: Thundercore, Polygon, Zksync and Starknet. We take care of the NFT infrastructure so you can focus on the application",
   "appUrl": "https://www.pikasso.xyz/",
   "contractAddresses": [
-    "0xc849948a3d003525d63c8c7e87834481bc82A714",
-    "0x30035b727F51768E2901504fDE5253DeC1ecda05"
+    "0xa25d61eE509E392daFC7eb56a06595B913D78A6c",
+    "0x2C24337D647DD4FB3fCe878d7d0fEdd9e7F9bEed",
+    "0x0135aE6B6f338880379F5d6436D6BF7a884E5cB8"
   ],
   "categories": ["Nft", "Marketplace", "Others"],
   "email": "hello@pikasso.xyz",
