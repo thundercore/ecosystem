@@ -1,0 +1,18 @@
+{
+    "slug": "sofaSport",
+    "name": "sofaSport",
+    "description": "Stand with your favorite team & predict the next goalscorer. Play in sofaSport as you are involved in the real competition.",
+    "appUrl": "https://sofasport.tk",
+    "contractAddresses": [
+      "0x07321c819739985FaCf50827C7b8fC823Ec81f64"
+    ],
+    "categories": [
+      "Game"
+    ],
+    "email": "sportonsofa@outlook.com",
+    "social": {
+      "twitter": "https://twitter.com/SofaSportDApp",
+      "telegram": "",
+      "discord": ""
+    }
+  } 
