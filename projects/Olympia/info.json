@@ -1,0 +1,16 @@
+{
+  "slug": "olympia",
+  "name": "Olympia Pad",
+  "description": "Olympia Pad is an upcoming decentralized launchpad set to revolutionize raising funds on ThunderCore. Olympia will offer an on chain solution for new projects and developers to raise funds for development and at the same time help the ThunderCore community get in on private sales before launches through Initial Dex Offerings or Initial NFT Offerings.",
+  "appUrl": "https://olympiapad.com",
+  "contractAddresses": [],
+  "categories": [
+    "DeFi"
+  ],
+  "email": "olympiazeus@proton.me",
+  "social": {
+    "twitter": "https://twitter.com/Olympiapad_TT",
+    "telegram": "https://t.me/ZeusOnTT",
+    "discord": "https://discord.gg/UBSZVqhYkg"
+  }
+}
