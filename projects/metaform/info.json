@@ -1,0 +1,16 @@
+{
+  "slug": "Metaform",
+  "name": "Metaform",
+  "description": "Blockchain-Native Survey Tool With Wallet Login",
+  "appUrl": "https://metaform.xyz",
+  "contractAddresses": [
+    ""
+  ],
+  "categories": [
+    "Tool"
+  ],
+  "email": "dev@metaform.xyz",
+  "social": {
+    "twitter": "https://twitter.com/Metaform_xyz"
+  }
+}
