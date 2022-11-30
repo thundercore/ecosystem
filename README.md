@@ -13,7 +13,7 @@ Read [THIS](https://docs.developers.thundercore.com/develop-on-thundercore-hub/d
 ### Requirements
 
 - DApp contract must be verified on Viewblock
-- Icon image size: 128Wx128H, suppored extensions: .jpg .jpeg .png
+- Icon image size: 256Wx256H, suppored extensions: .jpg .jpeg .png
 
 #### Format for the info.json file
 
