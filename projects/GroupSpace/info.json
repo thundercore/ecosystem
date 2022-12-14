@@ -1,0 +1,17 @@
+{
+    "slug": "GroupSpace",
+    "name": "GroupSpace",
+    "description": "GroupSpace is a communication-based verification protocol. There are two types of verification for groups, Paid Groups and Verified Groups. GroupSpace allows Web3 users to create a positive community that requires participants' contributions.",
+    "appUrl": "https://www.groupspace.io/",
+    "contractAddresses": [
+        "0x7bb173b52bd46936c5f700e75adaea9a9e4d2945"
+    ],
+    "categories": [
+        "NFTs"
+    ],
+    "email": "",
+    "social": {
+        "twitter": "https://twitter.com/Groupspace_",
+        "telegram": "https://t.me/Groupspace"
+    }
+}
