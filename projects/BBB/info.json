@@ -1,0 +1,19 @@
+{
+  "slug": "BBB",
+  "name": "BBB",
+  "description": "'BBB' is an on-chain community driven prediction market platform that allows users to debate, create and bet on the outcome of real world events and their own user generated topics.",
+  "appUrl": "https://www.bbb.wtf/",
+  "contractAddresses": [
+    "0x394160A267f2153e86A70133Ad7c1e99597B3b41"
+  ],
+  "categories": [
+    "Game",
+    "Defi"
+  ],
+  "email": "marketing@bbb.wtf",
+  "social": {
+    "twitter": "https://twitter.com/BBB_pusu",
+    "telegram": "https://t.me/BBB_globalchat",
+    "discord": "https://discord.gg/n4yZZNuq7Z"
+  }
+}
