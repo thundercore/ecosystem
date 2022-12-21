@@ -1,0 +1,17 @@
+{
+  "slug": "double",
+  "name": "Double",
+  "description": "Double is a decentralized protocol where anyone can permissionlessly lend or rent NFTs.",
+  "appUrl": "https://double.one/",
+  "contractAddresses": [
+    "0x7566fdc14d37ab5eb486be85075bb18bed1a29dd"
+  ],
+  "categories": [
+    "NFT"
+  ],
+  "email": "contact@emojidao.org",
+  "social": {
+    "twitter": "https://twitter.com/DoubleProtocol",
+    "discord": "https://discord.com/invite/k9eyguVhfn"
+  }
+}
