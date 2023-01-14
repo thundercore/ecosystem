@@ -6,9 +6,7 @@
 
   "description": "Create A Token in less than a minute with Geno Token Smart Contract Token creator. No coding required.",
 
-
-
-  appUrl": "http://genotoken.online",
+  "appUrl": "http://genotoken.online",
 
   "contractAddresses": ["0xd16ed0bf2614b25c776b807992a667075fe7f4fb"],
 
