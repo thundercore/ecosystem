@@ -4,8 +4,7 @@
   "description": "Plinko is extremely simple and easy game. You just watch a ball from the top of a pyramid until it bounces to the bottom.",
   "appUrl": "https://scgames.io/plinko",
   "contractAddresses": [
-    "0xfc957F63fce70df19406428D94DB8aFa9e17B6E0",
-    "0xB0BA855e3b52F5171C750B89Ec78063C52A92a66"
+    "0xd41e644aB6c4d37913F9F9dfd9c26B98176d0c97"
   ],
   "categories": [
     "Gambling"
