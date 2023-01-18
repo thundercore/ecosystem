@@ -1,0 +1,14 @@
+{
+  "slug": "PokerDice",
+  "name": "Poker Dice",
+  "description": "Roll 5 dices at once, the objective is to throw a winning poker hand, with hands ranking as in poker. INSTANT CASHBACK!",
+  "appUrl": "https://www.ethgames.fun/pokerdice.html",
+  "contractAddresses": ["0x53745e41639d416b5fd60322df12eedce34a2afd","0x94ba8c9d0b52bd06b1714a6eb827f8c738f148a0"],
+  "categories": ["Gambling"],
+  "email": "ethgames2022@gmail.com",
+  "social": {
+    "twitter": "https://www.twitter.com/ethgames2022",
+    "telegram": "",
+    "discord": ""
+  }
+}
