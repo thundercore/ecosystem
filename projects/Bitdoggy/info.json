@@ -1,0 +1,18 @@
+{
+  "slug": "The ultimate BitDoggy Universe",
+  "name": "BitDoggys",
+  "description": "BitDoggy is a collection of 7,777 unique Dogs wondering in blockhain backed up with a token.",
+  "appUrl": "https://www.bitdoggies.xyz/",
+  "contractAddresses": [
+    "0x6fC6adE91d37574E54202565351dBaA8f6Df1905",
+    "0x27C0BA3734990c12814717de0f0b088bEbb6Fc76",
+    "0x1144aC98FEC97b00fE40Fb502A6C282FA3082Cc8"
+  ],
+  "categories": ["NFT"],
+  "email": "admin@bitdoggies.xyz",
+  "social": {
+    "twitter": "https://twitter.com/BitDoggies",
+    "telegram": "https://t.me/bitdoggynft",
+    "discord": "https://discord.gg/56ZjpsX2FW"
+  }
+}
