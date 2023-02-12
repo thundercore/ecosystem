@@ -1,0 +1,14 @@
+{
+  "slug": "WolfDividents",
+  "name": "WolfDividents",
+  "description": "Stake your WOLF tokens and claim rewards",
+  "appUrl": "https://www.wolftoken.ethgames.fun",
+  "contractAddresses": ["0xca52d956e43b6a5e090fb62fe0fbf1cdc5474996","0x0eb235fe3832201031c77e7791623cfe983f903c"],
+  "categories": ["DeFi"],
+  "email": "ethgames2022@gmail.com",
+  "social": {
+    "twitter": "https://www.twitter.com/ethgames2022",
+    "telegram": "https://telegram.me/ethgamesgroup",
+    "discord": "https://discord.gg/HUETSDvU"
+  }
+}
