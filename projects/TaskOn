@@ -1,0 +1,14 @@
+{
+  "slug": "",
+  "name": "TaskOn",
+  "description": "TaskOn is a platform that boosts the completion for various Web3 tasks in a decentralized way",
+  "appUrl": "https://taskon.xyz/",
+  "contractAddresses": [""],
+  "categories": ["Tools"],
+  "email": "contact@taskon.xyz",
+  "social": {
+    "twitter": "https://twitter.com/taskonxyz",
+    "telegram": "https://t.me/TaskOnOfficial",
+    "discord": "discord.gg/eaWzVFm9vZ"
+  }
+}
