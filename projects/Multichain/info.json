@@ -1,0 +1,14 @@
+{
+  "slug": "Multichain",
+  "name": "Multichain Foundation",
+  "description": "Multichain is an infrastructure developed for arbitrary cross-chain interactions. We are secured by MPC and envisioned to be the ultimate router for Web3.",
+  "appUrl": "https://multichain.org/",
+  "contractAddresses": [],
+  "categories": ["Others"],
+  "email": "contact@multichain.org",
+  "social": {
+    "twitter": "https://twitter.com/MultichainOrg",
+    "telegram": "http://t.me/anyswap",
+    "discord": ""
+  }
+}
