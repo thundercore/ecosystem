@@ -1,0 +1,18 @@
+{
+  "slug": "betwithme.eth.link",
+  "name": "betwithme.eth.link",
+  "description": "Mini web3 game on ThunderCore.",
+  "appUrl": "https://betwithme.eth.link",
+  "contractAddresses": [
+    "0x15606a984dfEc1F95989cad5c435a3cA881b9c2C"
+  ],
+  "categories": [
+    "Game"
+  ],
+  "email": "inchainwetrust@proton.me",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  }
+}
