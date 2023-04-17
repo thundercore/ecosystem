@@ -1,0 +1,16 @@
+{
+  "slug": "TTDON",
+  "name": "ThunderCore Double Or Nothing Rocket Game",
+  "description": "A double or nothing rocket game using USDT on ThunderCore",
+  "appUrl": "https://ttdon.net",
+  "contractAddresses": [
+    "0x41d99a1c7e2b435179fed46ba03fbcc37afd7c55"
+  ],
+  "categories": [
+    "Game"
+  ],
+  "email": "pirogovdiman@inbox.ru",
+  "social": {
+    "telegram": "https://t.me/ThunderCoreDON",
+  }
+}
