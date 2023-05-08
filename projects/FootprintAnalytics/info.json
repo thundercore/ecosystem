@@ -1,0 +1,18 @@
+{
+    "slug": "FlappyMachine",
+    "name": "Flappy Machine",
+    "description": "I bet you can't score over 60",
+    "appUrl": "https://flappymachine.seasonfunplanet.com/",
+    "contractAddresses": [
+        "0x0D4DF49b1e9811DCe694d75Afe20062a1D2D8742"
+    ],
+    "categories": [
+        "game"
+    ],
+    "email": "seasonfunplanet@mail.com",
+    "social": {
+        "twitter": "",
+        "telegram": "",
+        "discord": ""
+    }
+}
