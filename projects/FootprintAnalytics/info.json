@@ -1,0 +1,15 @@
+{
+    "slug": "FootprintAnalytics",
+    "name": "Footprint Analytics",
+    "description": "Footprint Analytics is a data platform blending web2 and web3 data with abstractions. We help analysts, builders, and investors turn blockchain data into insights with accessible visualization tools and a powerful multi-chain API across 26+ chains for NFTs, GameFi, and DeFi. We also provide Footprint Growth Analytics to help with effective growth in GameFi and any web3 projects.",
+    "appUrl": " https://www.footprint.network/",
+    "categories": [
+        "Tools"
+    ],
+    "email": "lynn@footprint.network",
+    "social": {
+        "twitter": "https://twitter.com/Footprint_Data",
+        "telegram": "https://t.me/joinchat/4-ocuURAr2thODFh",
+        "discord": "https://discord.gg/3HYaR6USM7"
+    }
+}
