@@ -1,0 +1,20 @@
+{
+  "slug": "WhaleSwap",
+  "name": "WhaleSwap",
+  "description": "WhaleSwap is bringing trading to every blockchain with innovative hybrid liquidity pools.",
+  "appUrl": "https://whaleswap.finance/",
+  "contractAddresses": [
+    "0xABc26F8364cc0dD728Ac5c23fa40886fDa3dD121",
+    "0x66262362225eE5Ce109D6E59b3F3b2a8dbe37318",
+    "0x4091d8938b7b5299ED7e55650294980AA699092F"
+  ],
+  "categories": [
+    "DeFi"
+  ],
+  "email": "contact@whaleswap.finance",
+  "social": {
+    "twitter": "https://twitter.com/whaleloans",
+    "telegram": "https://t.me/whaleswap",
+    "discord": "https://discord.gg/whaleswap"
+  }
+}
