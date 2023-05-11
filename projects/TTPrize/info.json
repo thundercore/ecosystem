@@ -4,14 +4,14 @@
     "description": "Choose your lucky numbers and win a BIG Prize.\nThe game gives great Rewards for both winners and losers.",
     "appUrl": "https://www.prize-dapp.com",
     "contractAddresses": [
-      "0x547250249391956a76134eB1C922a797dBE5A438",
-      "0x5B2E49472E9E52cD1019B15Dc318855D84447bf9",
+      "0x224d270DbF216B2433399615303685D04Efa803f",
+      "0xB91A0595922369bf4ECa29bA4Fb550A0381A0255",
+      "0xec958DEA6b929740F8Fb277ACE43Fb3A341c7316",
+      "0xaf178B4EB22E72ADFaB1c82abAC6933d542F5d6D",
+      "0x2E3aBB28683dE37D8E81a1634156a3cd4dD92873",
+      "0x27Ec60EA180E7725C63A75905d9bf2bdA9F7e03b",
       "0x5096A8c3ed32420e2c083C7562075056Ed90978e",
-      "0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0",
       "0x8F5790fcC507807BE34F18163afb2be34742ebF8",
-      "0x4456A109F7E9079d35567FD919255027dC7fB3F9",
-      "0x9235F3C899742a7E23fd595796262309073850c3",
-      "0x03495261f01842Eabb13fFfba96A4f59cA0e99F0",
     ],
     "categories": [
       "Gambling"
