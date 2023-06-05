@@ -1,0 +1,14 @@
+{
+  "slug": "Sushi",
+  "name": "Sushi",
+  "description": "Sushi (sushi.com) is a decentralized trading platform, we aim to be a one-stop shop for all your Decentralized Finance (DeFi) needs.",
+  "appUrl": "https://www.sushi.com/",
+  "contractAddresses": ["0xf4d73326c13a4fc5fd7a064217e12780e9bd62c3", "0xabd380327fe66724ffda91a87c772fb8d00be488", "0xc35dadb65012ec5796536bd9864ed8773abc74c4"],
+  "categories": ["DeFi"],
+  "email": "",
+  "social": {
+    "twitter": "https://twitter.com/SushiSwap",
+    "telegram": "https://t.me/sushiswap",
+    "discord": "https://discord.gg/sushi-swap"
+  }
+}
