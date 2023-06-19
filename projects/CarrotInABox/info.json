@@ -1,0 +1,23 @@
+{
+
+  "slug": "carrotinabox",
+
+  "name": "Carrot In A Box",
+
+  "description": "Carrot In A Box is a game where you can win real money (TT) by betting ThunderCore TT, and bluffing other users that you have, or do not have a carrot in your box.",
+
+  "appUrl": "https://ctgames.site/carrot/",
+
+  "contractAddresses": ["0x7f76041d4e4e7b9e73addb72140ef212248e80b3"],
+
+  "categories": ["game"],
+
+   "social": {
+
+    "twitter": "https://twitter.com/Chat_thunder_",
+
+    "telegram": "https://t.me/chat_thunder"
+
+  }
+
+}
