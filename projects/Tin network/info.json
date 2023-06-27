@@ -1,0 +1,16 @@
+{
+
+  "slug": "tinnetwork",
+  "name": "Tinnetwork",
+  "description": "Manage your DeFi and NFTs in one simple interface in more than 60 chains.",
+  "appUrl": "https://tin.network",
+  "contractAddresses": [],
+  "categories": ["DeFi"],
+   "social": {
+    "email": "product@tin.network",
+    "twitter": "https://twitter.com/tinnetwork_defi",
+    "telegram": "https://t.me/tin_network"
+
+  }
+
+}
