@@ -1,0 +1,19 @@
+{
+  "slug": "Dice2Planet",
+  "name": "Dice2Planet",
+  "description": "Dice2Planet is the best dice game on ThunderCore.",
+  "appUrl": "https://dice2.diceplanet.xyz/",
+  "contractAddresses": [
+    "0xDc9eFBE9591A3F4b0237c7F2D9c7b0A0198434ca",
+    "0x08A027F1c8098D19A16Ddac1D9eC5b3AD528C3Ae"
+  ],
+  "categories": [
+    "Gambling"
+  ],
+  "email": "",
+  "social": {
+    "twitter": "",
+    "telegram": "https://t.me/diceplanet",
+    "discord": ""
+  }
+}
