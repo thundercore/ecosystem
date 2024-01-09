@@ -1,0 +1,14 @@
+{
+  "slug": "Online Crypto Casino & Sports",
+  "name": "Playing.io",
+  "description": "Playing.io aims to become the global leader in online gaming and betting using the latest blockchain technologies, always putting our customers first. Trust, integrity and fairness are just three of our key values.",
+  "appUrl": "https://www.playing.io/login?inviteCode=1000276",
+  "contractAddresses": ["0xC2Dc98F33F5Aa8971Ef210852ed389F34138c72a"],
+  "categories": ["Gambling"],
+  "email": "contact@playing.io",
+  "social": {
+    "twitter": "https://twitter.com/playingio_en",
+    "telegram": "https://t.me/playingiochannel",
+    "discord": "https://discord.gg/playingio"
+  }
+}
